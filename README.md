@@ -5,6 +5,7 @@ DDD + Lit web component based on OpenWC toolchain. This is intended to provide t
 - Great workflow via OpenWC tooling + Vercel for sharing demos
 - Simplify contribution to the HAX ecosystem
 - Publish and distribute via npmjs.com
+- read this
 
 ## Install dependencies
 - `npm install` - installs dependencies so you can work
